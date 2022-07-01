@@ -1,0 +1,69 @@
+1. Find output of 10+20+"30"
+
+Answer:
+
+10+20=30.
+30+"30"=3030.
+
+2. Find output of "10"+20+30
+
+Answer:
+
+"10"+50.
+1050.
+
+3. 10=='10'
+
+Answer:
+
+true.
+
+4. 20=== "20"
+
+Answer:
+
+false
+
+5. JS advantage
+
+Answer:
+
+*To make the webpage more interactive js is used.
+*It takes much lesser compile time that other programs
+*Speed 
+*Simplicity 
+
+6. For in and for each difference
+
+Answer:
+
+For in - It is used to loop through the properties in objects and alsp used in arrays
+For Each- Other than normal loop, it will use a callback function for each and every iteration until the end value in an array.
+
+7. What is closure?
+
+Answer:
+
+A closure gives access to an outer function's scope(access to the variable inside the parent function) from an inner function.
+
+8.Write 5 math inbuilt method.
+
+Answer:
+
+Math.floor(4.6);
+=4
+Math.round(4.6);
+=5
+Math.sqrt(9);
+=3
+Math.random();
+=0.1 to 1 any random number
+=0.1245
+Math.max();
+a=[1,3,5,2,15]
+math.max(a)
+=15.
+Math.min();
+a=[1,3,5,2,15]
+math.min(a)
+=1.
